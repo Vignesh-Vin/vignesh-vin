@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
  - Undergraduate Student at somewhere in Nellore District, A.P., India
- - Currently re-learning everything I learned 4 years ago
+ - Currently re-learning everything I learned 4 years ago (for college)
  - Stuff I know:
 	Python, JavaScript, HTML, AHK and Photoshop
  - Stuff I think I know (but actually don't):
