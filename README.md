@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - Undergraduate Student at somewhere in Nellore District, A.P., India
- - Currently re-learning everything I learned 4 years ago (for college)
+ - Undergraduate Student from Andhra Pradesh, India
+ - Currently re-learning everything I already know (because of college)
  - Stuff I know:
-	Python, JavaScript, HTML, AHK and Photoshop
- - Stuff I think I know (but actually don't):
-	C, C++, Unity Game Engine
+	JavaScript, AHK, Photoshop
+ - Stuff I'm currently learning:
+	C, HTML, CSS
+ - Stuff I'm plannig to learn:
+	C++, Unity Game Engine
  - Redditor
