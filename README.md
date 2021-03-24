@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
  - Undergraduate Student from Andhra Pradesh, India
- - Currently re-learning everything I already know (because of college)
  - Stuff I know:
 	JavaScript, AHK, Photoshop
  - Stuff I'm currently learning:
