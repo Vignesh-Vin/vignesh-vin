@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
  - Undergraduate Student from Andhra Pradesh, India
+ - I like making games
  - Stuff I know:
 	JavaScript, AHK, Photoshop
  - Stuff I'm currently learning:
