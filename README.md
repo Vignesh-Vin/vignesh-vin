@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  - Stuff I know:
 	JavaScript, AHK, Photoshop
  - Stuff I'm currently learning:
-	C, HTML, CSS
+	C, HTML, CSS, More JavaScript
  - Stuff I'm plannig to learn:
-	C++, Unity Game Engine, Rust, WebAssembly
+	C++, Unity Game Engine, Rust, WebAssembly, WebGL
  - Redditor
