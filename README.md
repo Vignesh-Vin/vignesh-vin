@@ -22,3 +22,6 @@ Here are some ideas to get you started:
  - Stuff I'm plannig to learn:
 	C++, Unity Game Engine, Rust, WebAssembly, WebGL
  - Redditor
+
+[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignesh-vin)](https://github.com/anuraghazra/github-readme-stats)
+
