@@ -17,11 +17,13 @@ Here are some ideas to get you started:
  - I like making games and memes
  - Stuff I know:
 	
-	JavaScript, AHK, Photoshop
+		JavaScript, AHK, Photoshop
  - Stuff I'm currently learning:
-	C, HTML, CSS, More JavaScript
+  
+		C, HTML, CSS, More JavaScript
  - Stuff I'm plannig to learn:
-	C++, Unity Game Engine, Rust, WebAssembly, WebGL
+ 
+		C++, Unity Game Engine, Rust, WebAssembly, WebGL
  - Redditor
 
 
