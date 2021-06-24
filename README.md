@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 	C++, Unity Game Engine, Rust, WebAssembly, WebGL
  - Redditor
 
-[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignesh-vin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-vin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
