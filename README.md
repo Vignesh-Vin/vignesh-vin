@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 		C, HTML, CSS, More JavaScript
  - Stuff I'm plannig to learn:
  
-		C++, Unity Game Engine, Rust, WebAssembly, WebGL
- - Redditor
+		C++, Rust, Python
+ - Redditor, Android Nerd
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-vin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
