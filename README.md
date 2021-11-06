@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 		JavaScript, AHK, Photoshop
  - Stuff I'm currently learning:
   
-		C, HTML, CSS, More JavaScript
+		Python, HTML, CSS, More JavaScript
  - Stuff I'm plannig to learn:
  
-		C++, Rust, Python
- - Redditor, Android, Linux Enthusiast 🐧
+		C++, Rust, Blockchain Tech
+ - Redditor, Linux Enthusiast 🐧
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-vin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
