@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 		C++, Rust, Blockchain Tech
  - [Redditor](https://www.reddit.com/user/vignesh_vin_7901/), [Anime Enjoyer](https://anilist.co/user/5654551), Linux Enthusiast 🐧
 
+ - Email: vignesh77024@gmail.com  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-vin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
