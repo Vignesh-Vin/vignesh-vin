@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  - Stuff I'm plannig to learn:
  
 		C++, Rust, Blockchain Tech
- - <a href="https://www.reddit.com/user/vignesh_vin_7901/" target="_blank">Redditor</a>, <a href="https://anilist.co/user/5654551" target="_blank">Anime Enjoyer</a>, Linux Enthusiast 🐧
+ - <a href="https://www.reddit.com/user/vignesh_vin_7901/" target="\_blank">Redditor</a>, <a href="https://anilist.co/user/5654551" target="\_blank">Anime Enjoyer</a>, Linux Enthusiast 🐧
  <!--
  - [Redditor](https://www.reddit.com/user/vignesh_vin_7901/){:target="\_blank"}, [Anime Enjoyer](https://anilist.co/user/5654551){:target="\_blank"}, Linux Enthusiast 🐧
 -->
