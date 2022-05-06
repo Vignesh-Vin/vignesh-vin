@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--
  - <a href="https://www.reddit.com/user/vignesh_vin_7901/" target="\_blank">Redditor</a>, <a href="https://anilist.co/user/5654551" target="\_blank">Anime Enjoyer</a>, Linux Enthusiast 🐧
 -->
- - [Redditor](https://www.reddit.com/user/vignesh_vin_7901/), [Anime Enjoyer](https://myanimelist.net/profile/passiV-seven), Linux Enthusiast 🐧
+ - [Redditor](https://www.reddit.com/user/vignesh_vin_7901/) (not very active), [Anime Enjoyer](https://myanimelist.net/profile/passiV-seven), Linux Enthusiast 🐧
 
  - Email: vignesh77024@gmail.com  
 
