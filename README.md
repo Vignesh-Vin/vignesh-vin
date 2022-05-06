@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
  - Undergraduate Student from Andhra Pradesh, India
- - I like making games and memes
  - Stuff I know:
 	
 		JavaScript, AHK, Photoshop
@@ -23,7 +22,7 @@ Here are some ideas to get you started:
 		Python, HTML, CSS, More JavaScript
  - Stuff I'm plannig to learn:
  
-		C++, Rust, Blockchain Tech
+		C++, Blockchain Tech
 <!--
  - <a href="https://www.reddit.com/user/vignesh_vin_7901/" target="\_blank">Redditor</a>, <a href="https://anilist.co/user/5654551" target="\_blank">Anime Enjoyer</a>, Linux Enthusiast 🐧
 -->
