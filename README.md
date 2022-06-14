@@ -16,10 +16,13 @@ Here are some ideas to get you started:
  - Undergraduate Student from Andhra Pradesh, India
  - Got into anime during the pandemic, now I can't stop watching
  - Stuff I know:  
+ 
 		JavaScript, AHK, Photoshop
  - Stuff I'm currently learning:  
+ 
 		Java, C/C++
  - Stuff I'm plannig to learn:  
+ 
  		Rust, Web Technologies
  - Redditor (not very active), Anime Enjoyer, Linux Enthusiast 🐧
 
