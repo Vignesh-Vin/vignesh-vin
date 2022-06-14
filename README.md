@@ -15,18 +15,12 @@ Here are some ideas to get you started:
 
  - Undergraduate Student from Andhra Pradesh, India
  - Got into anime during the pandemic, now I can't stop watching
- - Stuff I know:
-	
+ - Stuff I know:  
 		JavaScript, AHK, Photoshop
- - Stuff I'm currently learning:
-  
-		Python, HTML, CSS, More JavaScript
- - Stuff I'm plannig to learn:
- 
-		C++, Blockchain Tech
-<!--
- - <a href="https://www.reddit.com/user/vignesh_vin_7901/" target="\_blank">Redditor</a>, <a href="https://anilist.co/user/5654551" target="\_blank">Anime Enjoyer</a>, Linux Enthusiast 🐧
--->
+ - Stuff I'm currently learning:  
+		Java, C/C++
+ - Stuff I'm plannig to learn:  
+ 		Rust, Web Technologies
  - Redditor (not very active), Anime Enjoyer, Linux Enthusiast 🐧
 
  - Email: vignesh77024@gmail.com  
