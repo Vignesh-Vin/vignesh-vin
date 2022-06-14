@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  - Stuff I'm plannig to learn:  
  
  		Rust, Web Technologies
- - Redditor (not very active), Anime Enjoyer, Linux Enthusiast 🐧
+ - Redditor, Anime Enjoyer, Linux Enthusiast 🐧
 
  - Email: vignesh77024@gmail.com  
 
