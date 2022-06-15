@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
  - Email: vignesh77024@gmail.com  
  
-
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-seven&langs_count=6&border_radius=0&layout=compact&theme=ayu-mirage&hide=html" />
