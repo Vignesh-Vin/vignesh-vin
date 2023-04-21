@@ -17,13 +17,13 @@ Here are some ideas to get you started:
  - Got into anime during the pandemic, now I can't stop watching
  - Stuff I know:  
  
-		JavaScript, AHK, Photoshop
+		JavaScript, AHK
  - Stuff I'm currently learning:  
  
-		Java, C/C++
+		Next.js, ReactJS
  - Stuff I'm plannig to learn:  
  
- 		Rust, Web Technologies
+ 		More Web Technologies, Rust
  - Redditor, Anime Enjoyer
 
  - Email: vignesh77024@gmail.com  
