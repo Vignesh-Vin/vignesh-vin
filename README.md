@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
  - Undergraduate Student from Andhra Pradesh, India
- - Got into anime during the pandemic, now I can't stop watching
  - Stuff I know:  
  
 		JavaScript, AHK
