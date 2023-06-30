@@ -17,6 +17,9 @@ Here are some ideas to get you started:
  - Stuff I know:  
  
 		ReactJS, Next.js, JavaScript, Python, AutoHotKey
+ - Stuff I'm currently learning:
+
+		TypeScript, Backend Development
  - Stuff I'm plannig to learn:  
  
 		Backend, APIs, Databases, Rust
