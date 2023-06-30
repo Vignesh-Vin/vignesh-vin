@@ -16,10 +16,10 @@ Here are some ideas to get you started:
  - Undergraduate Student from Andhra Pradesh, India
  - Stuff I know:  
  
-		ReactJS, Next.js, JavaScript, AutoHotKey
+		ReactJS, Next.js, JavaScript, Python, AutoHotKey
  - Stuff I'm plannig to learn:  
  
-		Backend Development, More Web Technologies, Rust
+		Backend, APIs, Databases, Rust
  - Anime, Manga Enjoyer
 
  - Email: vignesh77024@gmail.com  
